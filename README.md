@@ -3,7 +3,7 @@
 
 Hello my fellow developer   
 As I can tell you have reached the bottom of GitHub, but do not fear my friend I will guide you through my cave.
-* 🧜‍♂️ I'm a software developer, currently working as a Java Backend Developer
+- 🧜‍♂️ I'm a software developer, currently working as a Java Backend Developer
 * ⌨️ What's my stack you may ask? Sending memes in slack is my main weapon. In addition of that I speak: 
   * **Java** - Spring, Processing, Hybris
   * **C#** - Unity
@@ -20,8 +20,11 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * **GraphQL** - seems pretty cool
   * **Shaders, VFXm Animation, 3D modeling** - and other cool stuff
   * **DevOps** - automatization does indeed look god
-  
-  
+
+        
+<p align="right">
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🗿</a>
+</p>
 
    *"Wow, that was an experience, thank you Misha!" - you because you are wery kind*   
 Your welcome my internet friend, you can read my endless avalanche of memes in tweeter or offer me a sick ass job on linkedin, just by clicking those two beautiful buttons:
@@ -34,3 +37,4 @@ Your welcome my internet friend, you can read my endless avalanche of memes in t
           <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
               alt="linkeding"></a>  
 </p>
+ 
