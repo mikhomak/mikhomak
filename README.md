@@ -18,7 +18,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * [📻SpotifyParty](https://github.com/mikhomak/SpotifyParty) - creating some crazy ass web app for **Spotify** using *Express, React, GraphQL, Postgresql and all in TypeScript*
 * 📚 I might be an ogre in a swamp but I can read and I use the power of words to learn:
   * **GraphQL** - seems pretty cool
-  * **Shaders, VFXm Animation, 3D modeling** - and other cool stuff
+  * **Shaders, VFX, Animation, 3D modeling** - and other cool stuff
   * **DevOps** - automatization does indeed look god
 
         
@@ -26,7 +26,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🗿</a>
 </p>
 
-   *"Wow, that was an experience, thank you Misha!" - you because you are wery kind*   
+   *"Wow, that was an experience, thank you Misha!" - you because you are very kind*   
 Your welcome my internet friend, you can read my endless avalanche of memes in tweeter or offer me a sick ass job on linkedin, just by clicking those two beautiful buttons:
 <p align="center">
   <a href="https://twitter.com/mikhomak">
