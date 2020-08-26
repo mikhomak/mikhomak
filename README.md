@@ -27,7 +27,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
 </p>
 
    *"Wow, that was an experience, thank you Misha!" - you because you are very kind*   
-Your welcome my internet friend, you can read my endless avalanche of memes in tweeter or offer me a sick ass job on linkedin, just by clicking those two beautiful buttons:
+Your welcome my internet friend, you can read my endless avalanche of memes in twitter or offer me a sick ass job on linkedin, just by clicking those two beautiful buttons:
 <p align="center">
   <a href="https://twitter.com/mikhomak">
           <img src="https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555"
