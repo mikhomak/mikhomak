@@ -12,7 +12,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * **Databases** - MySQL, MongoDB, Postgresql
   * **JavaScript** - JQuery but honestly tho I may as well just die
   * And other latin languages 
-* 📁 Do I have my personal projects? Yes, why would I have a GitHub account then
+* 📁 Do I have my personal projects? Yes, why would I have a GitHub account then.  I'm currently working on:
   * [🤺 Erbium](https://github.com/mikhomak/Erbium) - 3rd person physic based character for **Unity**. It was my final project of the University and I really need to rewrite some code there
   * [✈️ Lutenium](https://github.com/mikhomak/Lutenium) - currently working on a game in **Unreal Engine**. Can't say more for now, it is my Wizzard secret
   * [📻SpotifyParty](https://github.com/mikhomak/SpotifyParty) - creating some crazy ass web app for **Spotify** using *Express, React, GraphQL, Postgresql and all in TypeScript*
