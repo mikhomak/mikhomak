@@ -3,7 +3,7 @@
 
 Hello my fellow developer   
 As I can tell you have reached the bottom of GitHub, but do not fear my friend I will guide you through my cave.
-- 🧜‍♂️ I'm a software developer, currently working as a Java Backend Developer
+- 🧜‍♂️ I'm a software developer
 * ⌨️ What's my stack you may ask? Sending memes in slack is my main weapon. In addition of that I speak: 
   * **Java** - Spring, Processing, Hybris
   * **C#** - Unity
@@ -18,6 +18,9 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * [📻 SpotifyParty](https://github.com/mikhomak/SpotifyParty) - creating some crazy ass web app for **Spotify** using *Express, React, GraphQL, Postgresql and all in TypeScript*
   * [🎮 Jet Hawk](https://github.com/mikhomak/Samarium) - game created in 2 days for Mix and Game Jam (2020) with **Unity** 
   * [📦 UE4 Marching cube](https://github.com/mikhomak/Ue4MarchingCubes) - 3D perlin noise generator for ***Unreal Engine*** written in ***C++***
+* 🤏🏻I also have some sm0ll projects:
+  * [⭕🔫SphereTrace RayMarching](https://github.com/mikhomak/Ray-Marching) - while learning progamming I implemented ray marching using [***processing*** ](https://processing.org/)
+  * [🌪️Windmill](https://github.com/mikhomak/Windmill) - grapical representation of the windmill math problem using [***once again processing*** ](https://processing.org/)
 * 📚 I might be an ogre in a swamp but I can read and I use the power of words to learn:
   * **GraphQL** - seems pretty cool
   * **Shaders, VFX, Animation, 3D modeling** - and other cool stuff
