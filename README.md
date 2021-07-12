@@ -19,8 +19,8 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * [🎮 Jet Hawk](https://github.com/mikhomak/Samarium) - game created in 2 days for Mix and Game Jam (2020) with **Unity** 
   * [📦 UE4 Marching cube](https://github.com/mikhomak/Ue4MarchingCubes) - 3D perlin noise generator for ***Unreal Engine*** written in ***C++***
 * 🤏🏻I also have some sm0ll projects:
-  * [⭕🔫SphereTrace RayMarching](https://github.com/mikhomak/Ray-Marching) - while learning progamming I implemented ray marching using [***processing*** ](https://processing.org/)
-  * [🌪️Windmill](https://github.com/mikhomak/Windmill) - grapical representation of the windmill math problem using [***once again processing*** ](https://processing.org/)
+  * [⭕🔫 SphereTrace RayMarching](https://github.com/mikhomak/Ray-Marching) - while learning progamming I implemented ray marching using [***processing*** ](https://processing.org/)
+  * [🌪️ Windmill](https://github.com/mikhomak/Windmill) - grapical representation of the windmill math problem using [***once again processing*** ](https://processing.org/)
 * 📚 I might be an ogre in a swamp but I can read and I use the power of words to learn:
   * **GraphQL** - seems pretty cool
   * **Shaders, VFX, Animation, 3D modeling** - and other cool stuff
