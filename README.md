@@ -28,6 +28,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
   * [🌪️ Windmill](https://github.com/mikhomak/Windmill) - grapical representation of the windmill math problem using [***once again processing*** ](https://processing.org/)
   * [📁 Relative Path](https://github.com/mikhomak/Relative-Path) - **C++** equivalent of the [getRelativePath()](https://docs.microsoft.com/en-us/dotnet/api/system.io.path.getrelativepath?view=net-5.0) from *dotNet*
   * [👩🏼‍💻 Cipher saber decryptor](https://github.com/mikhomak/CipherSaberDecryptor) - [Cipher saber](http://ciphersaber.gurus.org/) RC4 decryptor in **C++**
+  * [🧊Blender material collector](https://github.com/mikhomak/blender-material-collector) - Small script for blender to assing all materials in the scene to one object for batch operations
 ---
 
         
