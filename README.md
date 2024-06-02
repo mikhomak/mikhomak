@@ -18,7 +18,7 @@ As I can tell you have reached the bottom of GitHub, but do not fear my friend I
 ---
 * 📁 Do I have my personal projects? Yes, why would I have a GitHub account then.  I'm currently working on:
   * [🤺 Erbium](https://github.com/mikhomak/Erbium) - 3rd person physic based character for **Unity**. It was my final project of the University and I really need to rewrite some code there
-  * [🍜Cookingd](https://github.com/mikhomak/cookingd) - [cookingd](https://cookin-d.com) cooking journal website simillar to [letterboxd](https://letterboxd.com). Made with _Rust, GraphQL, Postgres, Vue_
+  * [🍜Cookingd](https://github.com/mikhomak/cookingd) - [cookingd](https://cooking-d.com/)  cooking journal website simillar to [letterboxd](https://letterboxd.com). Made with _Rust, GraphQL, Postgres, Vue_
   * [📻 SpotifyParty](https://github.com/mikhomak/SpotifyParty) - creating some crazy ass web app for **Spotify** using *Express, React, GraphQL, Postgresql and all in TypeScript*
   * [🎮 Jet Hawk](https://github.com/mikhomak/Samarium) - game created in 2 days for Mix and Game Jam (2020) with **Unity** 
   * [📦 UE4 Marching cube](https://github.com/mikhomak/Ue4MarchingCubes) - 3D perlin noise generator for ***Unreal Engine*** written in ***C++***
